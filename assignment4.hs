@@ -1,6 +1,4 @@
 {-
-    RSSELI007
-
     Program to simulate a turing machine that decides whether a given string is a palindrome.
     Gamma = {a, b, NULL}
     Sigma = {a, b}

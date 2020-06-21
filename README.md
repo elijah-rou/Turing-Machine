@@ -1,4 +1,4 @@
-# Haskell Assignment 4 - Palindrome TM (RSSELI007)
+# Palindrome TM
 Hi there!
 
 To run the palindrome TM, use the palindromeTM function in GHCi as such:
